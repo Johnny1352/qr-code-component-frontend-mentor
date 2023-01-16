@@ -1,0 +1,14 @@
+@media (min-width: 26.5625em) {
+  .card {
+    width: 350px;
+  }
+
+  .header {
+    font-size: 1.6rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .content {
+    font-size: 1.2rem;
+  }
+}
